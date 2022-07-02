@@ -3,6 +3,7 @@ import Jobs from "./components/Jobs";
 import { useState } from "react";
 import Header from "./components/Header";
 import Search from "./components/Search";
+import "./App.css";
 
 function App() {
   const [filterKeywords, setfilterKeywords] = useState([]);
@@ -28,7 +29,9 @@ function App() {
 
   return (
     <div>
-      <div className="header"></div>
+      <div className="header">
+        <h2>Handout Foundation</h2>
+      </div>
 
       {/* <Search setSearchKeyword={setSearchKeyword} /> */}
 
