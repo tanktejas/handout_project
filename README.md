@@ -1,17 +1,4 @@
-# Build Job listing website with React JS
-
-This repository contains code for Job listing website in reactjs.
-
-View Demo:
-https://react-job-listing-website.vercel.app/
-
-If you want to learn how to create it please follow below tutorial:
-
-https://youtu.be/-0zQTq4mZAA
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
